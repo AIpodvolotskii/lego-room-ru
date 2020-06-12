@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/lego-room-ru/static/css/main.981f7211.chunk.css",
+    "main.js": "/lego-room-ru/static/js/main.035db97d.chunk.js",
+    "main.js.map": "/lego-room-ru/static/js/main.035db97d.chunk.js.map",
+    "runtime-main.js": "/lego-room-ru/static/js/runtime-main.fe20259e.js",
+    "runtime-main.js.map": "/lego-room-ru/static/js/runtime-main.fe20259e.js.map",
+    "static/css/2.6bab1db4.chunk.css": "/lego-room-ru/static/css/2.6bab1db4.chunk.css",
+    "static/js/2.d8794e14.chunk.js": "/lego-room-ru/static/js/2.d8794e14.chunk.js",
+    "static/js/2.d8794e14.chunk.js.map": "/lego-room-ru/static/js/2.d8794e14.chunk.js.map",
+    "index.html": "/lego-room-ru/index.html",
+    "precache-manifest.ba4b38c65779f044a5247f442cd74998.js": "/lego-room-ru/precache-manifest.ba4b38c65779f044a5247f442cd74998.js",
+    "service-worker.js": "/lego-room-ru/service-worker.js",
+    "static/css/2.6bab1db4.chunk.css.map": "/lego-room-ru/static/css/2.6bab1db4.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "/lego-room-ru/static/css/main.981f7211.chunk.css.map",
+    "static/js/2.d8794e14.chunk.js.LICENSE.txt": "/lego-room-ru/static/js/2.d8794e14.chunk.js.LICENSE.txt",
+    "static/media/persik.png": "/lego-room-ru/static/media/persik.4e1ec840.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe20259e.js",
+    "static/css/2.6bab1db4.chunk.css",
+    "static/js/2.d8794e14.chunk.js",
+    "static/css/main.981f7211.chunk.css",
+    "static/js/main.035db97d.chunk.js"
+  ]
+}
